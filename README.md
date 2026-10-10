@@ -1,0 +1,1 @@
+# ctci-algomonster-patterns
